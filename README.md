@@ -1,2 +1,1 @@
-# StringArt
-A website to deploy ideas.
+no read me yet. hold tight
